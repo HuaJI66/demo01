@@ -14,3 +14,4 @@ Hello Git
 Hello Test
 
 Hot-Fix master
+Hot-Fix hot-fix
